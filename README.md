@@ -1,4 +1,4 @@
-# seniorthesis
+# Improving Historical Archive Transcription through Deep Learning Models and Data Augmentation (Senior Thesis Project)
 
 Washington Dataset: check the zipped file 
 Created Dataset: I could not upload it because the file was too big. https://drive.google.com/drive/folders/1dUnoVTzpF6ThdlTDuk89lTvuLWMLavIi?usp=sharing
